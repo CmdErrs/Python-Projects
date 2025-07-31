@@ -1,3 +1,6 @@
+# if: elif: else: equivalet to switch or case found in other languages
+
+
 num = int( input('Please Enter A Number: '))
 
 if num > 5 :
