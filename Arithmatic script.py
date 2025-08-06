@@ -25,3 +25,6 @@ print('Exponent wo/sep:\t', a ,'²', '=' , a ** b )
 print('Exponent w r:\t', a ,'²', '=' , sep = '') , print(a ** b , end = '\r')
 
 #new changes for VScode git
+
+
+# test learning
