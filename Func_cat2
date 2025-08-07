@@ -1,0 +1,9 @@
+import Func_cat
+
+Func_cat.purr()
+Func_cat.lick()
+Func_cat.nap()
+
+Func_cat.purr( 'kitty' )
+Func_cat.lick( 'mouse' )
+Func_cat.nap( 'tiger' )
