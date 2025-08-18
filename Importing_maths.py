@@ -1,0 +1,13 @@
+import math
+import random
+print('Rounded Up 9.5:', math.ceil(9.5))
+print('Rounded Down 9.5:', math.floor(9.5))
+
+num = 4
+
+print(num, 'Squared:', math.pow(num, 2))
+print(num, 'Square Root:', math.sqrt(num))
+
+nums = random.sample(range(1, 60), 6)
+print('Your Lucky Numbers Are:', nums)
+
